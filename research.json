@@ -1,0 +1,77 @@
+{
+  "name": "KBS Auto Service and Repair",
+  "type": "mechanic",
+  "tagline": "Your go-to destination for top-quality car maintenance and repairs",
+  "description": "KBS Auto Service and Repair is a trusted automotive repair workshop located in Sunshine, VIC. With skilled and experienced technicians, the business delivers exceptional service across routine maintenance and complex repairs. Known for honest and transparent pricing with no hidden fees, KBS Auto is committed to ensuring every vehicle runs smoothly and safely.",
+  "address": "57 Wright St, Sunshine VIC 3020",
+  "phone": "0402 274 565",
+  "email": "",
+  "services": [
+    "Car Servicing",
+    "Auto Repairs",
+    "Routine Maintenance",
+    "Complex Repairs",
+    "Roadside Assistance",
+    "Towing",
+    "Log Book Servicing",
+    "Brake Repairs",
+    "Suspension & Steering",
+    "Engine Diagnostics"
+  ],
+  "logo_url": "",
+  "image_urls": [
+    {
+      "url": "",
+      "context": "exterior",
+      "description": "KBS Auto Service and Repair – workshop exterior",
+      "source": "user_provided"
+    },
+    {
+      "url": "",
+      "context": "interior",
+      "description": "KBS Auto Service and Repair – workshop interior",
+      "source": "user_provided"
+    },
+    {
+      "url": "",
+      "context": "work",
+      "description": "KBS Auto Service and Repair – vehicle in service",
+      "source": "user_provided"
+    },
+    {
+      "url": "",
+      "context": "work",
+      "description": "KBS Auto Service and Repair – mechanic at work",
+      "source": "user_provided"
+    },
+    {
+      "url": "",
+      "context": "work",
+      "description": "KBS Auto Service and Repair – automotive repair",
+      "source": "user_provided"
+    }
+  ],
+  "image_url_list": [],
+  "social_links": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "tiktok": ""
+  },
+  "existing_website_url": "",
+  "brand_colors": ["#c4403c", "#1c2460"],
+  "testimonials": [],
+  "opening_hours": {
+    "Monday": "9:00 AM – 6:00 PM",
+    "Tuesday": "9:00 AM – 6:00 PM",
+    "Wednesday": "9:00 AM – 6:00 PM",
+    "Thursday": "9:00 AM – 6:00 PM",
+    "Friday": "9:00 AM – 6:00 PM",
+    "Saturday": "9:00 AM – 2:00 PM",
+    "Sunday": "Closed"
+  },
+  "rating": 4.9,
+  "review_count": 10,
+  "logo_note": "Logo provided by user as KBS Auto/logo.png. Images provided by user in KBS Auto/Images/ (image1.webp through image5.webp). No logo URL available from web sources — user-supplied assets used instead.",
+  "assets_note": "User has provided: logo.png, Images/image1.webp, Images/image2.webp, Images/image3.webp, Images/image4.webp, Images/image5.webp. Colors extracted from logo and saved in colors.json."
+}
