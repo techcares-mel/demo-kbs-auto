@@ -401,7 +401,7 @@ h1 em {
   position: relative;
   background:
     linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url('Images/image1.webp') center / cover no-repeat;
+    url('Images/hero.png') center / cover no-repeat;
 }
 
 .hero-inner {
