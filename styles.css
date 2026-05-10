@@ -72,6 +72,7 @@ ul {
   user-select: none;
   letter-spacing: 0.15em;
   -webkit-text-stroke: 2px var(--accent);
+  text-shadow: 0 0 20px var(--accent), 0 0 60px var(--accent), 0 0 100px var(--accent-glow);
   font-family: 'Oswald', sans-serif;
 }
 
